@@ -1,0 +1,27 @@
+========== HEADER & NAV ==========
+.nav__logo
+Company
+
+.nav__link
+Home
+Company
+Analytics
+Products
+Users
+Contact
+
+========== DROPDOWN MENU ==========
+.dropdown__link
+Overview
+Transactions
+Reports
+
+Profiles
+Accounts
+Messages
+
+========== DROPDOWN SUBMENU ==========
+.dropdown__sublink
+Documents
+Payments
+Refunds
