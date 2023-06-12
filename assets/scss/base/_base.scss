@@ -1,0 +1,22 @@
+/*=============== BASE ===============*/
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: var(--body-font);
+	font-size: var(--normal-font-size);
+	background-color: var(--body-color);
+}
+
+ul{
+	list-style: none;
+	// Color highlighting when pressed on mobile devices
+	// -webkit-tap-highlight-color: transparent;
+}
+
+a{
+	text-decoration: none;
+}
